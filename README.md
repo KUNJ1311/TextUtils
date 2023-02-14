@@ -1,5 +1,5 @@
 # Text Utils 
-![Preview]https://kunj1311.github.io/TextUtils//?raw=true "News")
+![Preview][https://kunj1311.github.io/TextUtils/](https://github.com/KUNJ1311/TextUtils/blob/main/public/Screenshot%20(127).png)/?raw=true "News")
 
 ## Get API KEY
 

@@ -5,4 +5,4 @@
 ## Setup project 
 
 1. Run command `npm install` in terminal.
-2. Then run the command `npm start` in terminal.
+2. Then run the command `npm run start` in terminal.

@@ -1,4 +1,4 @@
-# Text Utils 
+# Text Utils - kunj1311.github.io/TextUtils/
 ![Preview](https://github.com/KUNJ1311/TextUtils/blob/main/public/Screenshot%20(127).png/?raw=true "News")
 
 ## Setup project

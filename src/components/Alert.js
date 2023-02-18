@@ -5,14 +5,9 @@ function Alert(props) {
 		const lower = word.toLowerCase();
 		return lower.charAt(0).toUpperCase() + lower.slice(1);
 	};
-	const my = ()=>{
-		const we='KUNJ_FALADU1311';
-		return we;
-	}
-
+	
 	return (
 		<div style={{ height: "50px" }}>
-		<p>{my}</p>
 			{props.alert && (
 				<div className={`alert alert-${props.alert.type} alert-dismissible fade show`} role="alert">
 					<strong>{capitalize(props.alert.type)}</strong>: {props.alert.message}

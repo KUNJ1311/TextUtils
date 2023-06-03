@@ -1,6 +1,6 @@
 # [Text Utils](https://kunj1311.github.io/TextUtils/)
 
-![Preview](https://raw.githubusercontent.com/KUNJ1311/TextUtils/main/public/Screenshot%20(12).png)
+![Preview](public/Screenshot (12).png)
 
 ## Setup project 
 
